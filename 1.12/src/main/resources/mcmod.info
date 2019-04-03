@@ -1,0 +1,16 @@
+[
+{
+  "modid": "walrus",
+  "name": "Walrus",
+  "description": "Walrus.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tfarecmin"],
+  "credits": "Textures by PaleoCrafter and Cyntain",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
